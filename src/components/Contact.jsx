@@ -89,13 +89,13 @@ const Contact = () => {
           <div className="mt-12 text-center">
             <p className="text-light-secondary dark:text-dark-secondary mb-4">Or connect with me on:</p>
             <div className="flex justify-center space-x-6">
-              <a href="#" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
+              <a href="https://www.linkedin.com/in/aayushjp/" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
                 <FaLinkedin size={28} />
               </a>
-              <a href="#" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
+              <a href="https://github.com/aayush-jp" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
                 <FaGithub size={28} />
               </a>
-              <a href="mailto:your.email@example.com" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
+              <a href="mailto:imaayushjp@gmail.com" className="text-light-secondary dark:text-dark-secondary hover:text-light-primary dark:hover:text-dark-primary transition-colors">
                 <FaEnvelope size={28} />
               </a>
             </div>
