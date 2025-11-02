@@ -4,23 +4,23 @@ import project2Image from '../assets/project2.png';
 
 const projects = [
   {
-    name: 'Disaster Relief & Emergency Aid Locator',
-    description: 'A web application to locate and provide information on emergency services during natural disasters.',
-    tech: ['React', 'Node.js', 'MongoDB', 'Maps API'],
+    name: 'The Green Nook',
+    description: 'An e-commerce web application that simulates the experience of an online plant store.',
+    tech: ['React', 'Redux', 'CSS3', 'Neltify'],
     image: project1Image,
-    github: '#', // Add your GitHub link
-    live: '#',   // Add your live demo link
+    github: 'https://github.com/aayush-jp/houseplant-store', // Add your GitHub link
+    live: 'https://thegreennook.netlify.app/',   // Add your live demo link
   },
   {
-    name: 'Student Evaluation & Feedback System',
-    description: 'An online platform for students to provide feedback on courses and faculty, with an admin dashboard for analysis.',
-    tech: ['Python', 'Django', 'PostgreSQL', 'Chart.js'],
+    name: 'Disaster Relief and Emergency Aid App',
+    description: 'A web application to streamline disaster relief efforts by connecting victims, volunteers, and aid providers in real time.',
+    tech: ['HTML', 'CSS', 'MongoDB', 'Node.js', 'Firebase'],
     image: project2Image,
     github: '#',
     live: '#',
   },
   {
-    name: 'Portfolio Website (v1)',
+    name: 'Student Feedback and Assessment Dashboard',
     description: 'My first personal portfolio website built with vanilla HTML, CSS, and JavaScript to showcase my early projects.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: project1Image, // Use a placeholder or screenshot
