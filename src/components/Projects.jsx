@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import project1Image from '../assets/project1.png'; // Add project images to assets
 import project2Image from '../assets/project2.png';
+import project3Image from '../assets/project3.png';
 
 const projects = [
   {
@@ -21,9 +22,9 @@ const projects = [
   },
   {
     name: 'Student Feedback and Assessment Dashboard',
-    description: 'My first personal portfolio website built with vanilla HTML, CSS, and JavaScript to showcase my early projects.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    image: project1Image, // Use a placeholder or screenshot
+    description: 'This was done on the account of Inhosue Project, to assess the performance of the student and tailor the learning accroding to each student',
+    tech: ['Streamlit', 'Python', 'Google Forms'],
+    image: project3Image, // Use a placeholder or screenshot
     github: '#',
     live: '#',
   },
